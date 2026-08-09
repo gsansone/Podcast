@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Mi Podcast Privado</title>
+    <link>https://gsansone.github.io/Podcast/</link>
+    <description>Mis producciones en formato podcast sincronizadas mediante GitHub Pages.</description>
+    <language>es</language>
+    
+    <item>
+      <title>Episodio 1: Mi primera prueba</title>
+      <description>Este es el primer archivo de audio subido al repositorio.</description>
+      <!-- El atributo 'length' es el peso en bytes, puedes dejar un aproximado si no lo sabes -->
+      <enclosure url="https://gsansone.github.io/Podcast/episodio1.mp3" type="audio/mpeg" length="5000000"/>
+      <guid isPermaLink="false">episodio-1</guid>
+    </item>
+
+  </channel>
+</rss>
