@@ -29,6 +29,13 @@
       <guid isPermaLink="false">Episodio</guid>
     </item>
 
+      <item>
+      <title>NASA</title>
+      <description>Probemos</description>
+      <pubDate>Sun, 09 Aug 2026 18:41:47 -0300</pubDate>
+      <enclosure url="https://gsansone.github.io/Podcast/capitulo3.mp3" type="audio/mpeg" length="23589102"/>
+      <guid isPermaLink="false">episodio-3</guid>
+    </item>
   </channel>
 
 </rss>
