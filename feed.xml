@@ -29,5 +29,12 @@
       <enclosure url="https://gsansone.github.io/Podcast/capitulo3.mp3" type="audio/mpeg" length="23589102"/>
       <guid isPermaLink="false">episodio-3</guid>
     </item>
+      <item>
+      <title>Esta es una Prueba</title>
+      <description>Es de NASA</description>
+      <pubDate>Sun, 09 Aug 2026 18:59:54 -0300</pubDate>
+      <enclosure url="https://gsansone.github.io/Podcast/capitulo3.mp3" type="audio/mpeg" length="23589102"/>
+      <guid isPermaLink="false">Temporada 1</guid>
+    </item>
   </channel>
 </rss>
