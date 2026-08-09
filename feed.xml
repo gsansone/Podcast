@@ -8,11 +8,11 @@
     
     <!-- ETIQUETAS DE LA PORTADA -->
     <image>
-      <url>https://gsansone.github.io/Podcast/portada.jpg</url>
+      <url>https://gsansone.github.io/Podcast/portada.jpg?v=2</url>
       <title>Mi Podcast Privado</title>
       <link>https://gsansone.github.io/Podcast/</link>
     </image>
-    <itunes:image href="https://gsansone.github.io/Podcast/portada.jpg" />
+    <itunes:image href="https://gsansone.github.io/Podcast/portada.jpg?v=2" />
     
     <item>
       <title>Episodio 1: Mi primera prueba</title>
@@ -28,13 +28,6 @@
       <pubDate>Sun, 09 Aug 2026 18:41:47 -0300</pubDate>
       <enclosure url="https://gsansone.github.io/Podcast/capitulo3.mp3" type="audio/mpeg" length="23589102"/>
       <guid isPermaLink="false">episodio-3</guid>
-    </item>
-      <item>
-      <title>Esta es una Prueba</title>
-      <description>Es de NASA</description>
-      <pubDate>Sun, 09 Aug 2026 18:59:54 -0300</pubDate>
-      <enclosure url="https://gsansone.github.io/Podcast/capitulo3.mp3" type="audio/mpeg" length="23589102"/>
-      <guid isPermaLink="false">Temporada 1</guid>
     </item>
   </channel>
 </rss>
