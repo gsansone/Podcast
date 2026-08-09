@@ -6,6 +6,14 @@
     <description>Mis producciones en formato podcast sincronizadas mediante GitHub Pages.</description>
     <language>es</language>
     
+    <!-- ETIQUETAS DE LA PORTADA -->
+    <image>
+      <url>https://gsansone.github.io/Podcast/portada.jpg</url>
+      <title>Mi Podcast Privado</title>
+      <link>https://gsansone.github.io/Podcast/</link>
+    </image>
+    <itunes:image href="https://gsansone.github.io/Podcast/portada.png" />
+    
     <item>
       <title>Episodio 1: Mi primera prueba</title>
       <description>Este es el primer archivo de audio subido al repositorio.</description>
