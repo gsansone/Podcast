@@ -68,5 +68,16 @@
         <itunes:image href="https://gsansone.github.io/Podcast/images/portada.jpg"/>
         <guid isPermaLink="false">no-llegaremos-a-marte-sin-volver-a-la-luna-1786383742743</guid>
     </item>
+
+    <item>
+        <title><![CDATA[Desmontando Terraplanistas]]></title>
+        <description><![CDATA[Sergio Hidalgo]]></description>
+        <enclosure url="https://gsansone.github.io/Podcast/audio/desmontando_terraplanistas.mp3" type="audio/mpeg" length="28725259"/>
+        <pubDate>Mon, 10 Aug 2026 19:37:22 GMT</pubDate>
+        <itunes:season>1</itunes:season>
+        <itunes:episode>7</itunes:episode>
+        <itunes:image href="https://gsansone.github.io/Podcast/images/portada.jpg"/>
+        <guid isPermaLink="false">desmontando-terraplanistas-1786390643478</guid>
+    </item>
 </channel>
 </rss>
