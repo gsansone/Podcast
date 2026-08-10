@@ -39,5 +39,15 @@
         <itunes:episode>1</itunes:episode>
         <itunes:image href="https://gsansone.github.io/Podcast/images/portada.jpg"/>
     </item>
+
+    <item>
+        <title><![CDATA[El Rover Lunar]]></title>
+        <description><![CDATA[Programa Apolo]]></description>
+        <enclosure url="https://gsansone.github.io/Podcast/audio/El Rover Lunar_parte1.mp3" type="audio/mpeg" length="0"/>
+        <pubDate>Mon, 10 Aug 2026 14:25:30 GMT</pubDate>
+        <itunes:season>1</itunes:season>
+        <itunes:episode>1</itunes:episode>
+        <itunes:image href="https://gsansone.github.io/Podcast/images/portada.jpg"/>
+    </item>
 </channel>
 </rss>
