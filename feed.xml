@@ -29,5 +29,15 @@
       <enclosure url="https://gsansone.github.io/Podcast/capitulo3.mp3" type="audio/mpeg" length="23589102"/>
       <guid isPermaLink="false">episodio-3</guid>
     </item>
-  </channel>
+  
+    <item>
+        <title><![CDATA[Episodio 1 - Rover Lunar]]></title>
+        <description><![CDATA[Programa Apollo]]></description>
+        <enclosure url="https://gsansone.github.io/Podcast/audio/El Rover Lunar (Parte 1) PROGRAMA APOLO_parte1.mp3" type="audio/mpeg" length="0"/>
+        <pubDate>Mon, 10 Aug 2026 14:04:33 GMT</pubDate>
+        <itunes:season>1</itunes:season>
+        <itunes:episode>1</itunes:episode>
+        <itunes:image href="https://gsansone.github.io/Podcast/images/portada.jpg"/>
+    </item>
+</channel>
 </rss>
