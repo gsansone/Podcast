@@ -35,5 +35,16 @@
         <itunes:image href="https://gsansone.github.io/Podcast/images/portada.jpg"/>
         <guid isPermaLink="false">vidrios-met-licos-1786375120438</guid>
     </item>
+
+    <item>
+        <title><![CDATA[Agente de IA]]></title>
+        <description><![CDATA[De Oliver Nabani]]></description>
+        <enclosure url="https://gsansone.github.io/Podcast/audio/¿como_funciona_por_dentro_un_agente_de_ia.mp3" type="audio/mpeg" length="26420268"/>
+        <pubDate>Mon, 10 Aug 2026 15:51:39 GMT</pubDate>
+        <itunes:season>1</itunes:season>
+        <itunes:episode>3</itunes:episode>
+        <itunes:image href="https://gsansone.github.io/Podcast/images/portada.jpg"/>
+        <guid isPermaLink="false">agente-de-ia-1786377099510</guid>
+    </item>
 </channel>
 </rss>
