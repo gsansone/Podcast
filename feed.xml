@@ -8,32 +8,32 @@
     
     <!-- ETIQUETAS DE LA PORTADA -->
     <image>
-      <url>https://gsansone.github.io/Podcast/images/portada.jpg</url>
+      <url>https://gsansone.github.io/Podcast/portada.jpg</url>
       <title>Mi Podcast Privado</title>
       <link>https://gsansone.github.io/Podcast/</link>
     </image>
-    <itunes:image href="https://gsansone.github.io/Podcast/images/portada.jpg" />
+    <itunes:image href="https://gsansone.github.io/Podcast/portada.jpg" />
   
     <item>
-        <title><![CDATA[El Rover Lunar]]></title>
+        <title><![CDATA[Episodio 1: El Rover Lunar]]></title>
         <description><![CDATA[Programa Apolo]]></description>
-        <!-- Reemplaza los espacios por guiones bajos en tu repositorio y aquí -->
-        <enclosure url="https://gsansone.github.io/Podcast/audio/el_rover_lunar_parte1.mp3" type="audio/mpeg" length="25000000"/>
-        <pubDate>Mon, 10 Aug 2026 14:25:30 GMT</pubDate>
-        <itunes:season>1</itunes:season>
-        <itunes:episode>1</itunes:episode>
-        <itunes:image href="https://gsansone.github.io/Podcast/images/portada.jpg"/>
-        <guid isPermaLink="false">rover-lunar-1</guid>
-    </item>
-
-    <item>
-        <title><![CDATA[El_Rover_Lunar]]></title>
-        <description><![CDATA[Apollo]]></description>
-        <enclosure url="https://gsansone.github.io/Podcast/audio/El_Rover_Lunar_parte1.mp3" type="audio/mpeg" length="0"/>
+        <enclosure url="https://gsansone.github.io/Podcast/audio/El_Rover_Lunar_parte1.mp3" type="audio/mpeg" length="12500000"/>
         <pubDate>Mon, 10 Aug 2026 14:38:45 GMT</pubDate>
         <itunes:season>1</itunes:season>
         <itunes:episode>1</itunes:episode>
-        <itunes:image href="https://gsansone.github.io/Podcast/images/portada.jpg"/>
+        <itunes:image href="https://gsansone.github.io/Podcast/portada.jpg"/>
+        <guid isPermaLink="false">rover-lunar-ep1</guid>
     </item>
-</channel>
+
+    <item>
+        <title><![CDATA[Episodio 2: Prueba anterior]]></title>
+        <description><![CDATA[Archivo de prueba inicial en el repositorio.]]></description>
+        <enclosure url="https://gsansone.github.io/Podcast/episodio1.mp3" type="audio/mpeg" length="5000000"/>
+        <pubDate>Sun, 09 Aug 2026 12:00:00 GMT</pubDate>
+        <itunes:season>1</itunes:season>
+        <itunes:episode>2</itunes:episode>
+        <itunes:image href="https://gsansone.github.io/Podcast/portada.jpg"/>
+        <guid isPermaLink="false">episodio-2</guid>
+    </item>
+  </channel>
 </rss>
