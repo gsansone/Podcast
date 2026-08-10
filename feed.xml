@@ -57,5 +57,16 @@
         <itunes:image href="https://gsansone.github.io/Podcast/images/portada.jpg"/>
         <guid isPermaLink="false">stirling-1786382869310</guid>
     </item>
+
+    <item>
+        <title><![CDATA[No llegaremos a Marte sin volver a la Luna]]></title>
+        <description><![CDATA[]]></description>
+        <enclosure url="https://gsansone.github.io/Podcast/audio/no_llegaremos_a_marte_sin_volver_a_la_luna.mp3" type="audio/mpeg" length="31308582"/>
+        <pubDate>Mon, 10 Aug 2026 17:42:22 GMT</pubDate>
+        <itunes:season>1</itunes:season>
+        <itunes:episode>6</itunes:episode>
+        <itunes:image href="https://gsansone.github.io/Podcast/images/portada.jpg"/>
+        <guid isPermaLink="false">no-llegaremos-a-marte-sin-volver-a-la-luna-1786383742743</guid>
+    </item>
 </channel>
 </rss>
