@@ -41,5 +41,15 @@
         <itunes:image href="https://gsansone.github.io/Podcast/images/portada.jpg"/>
         <guid isPermaLink="false">rover-lunar-1</guid>
     </item>
+
+    <item>
+        <title><![CDATA[El_Rover_Lunar]]></title>
+        <description><![CDATA[Apollo]]></description>
+        <enclosure url="https://gsansone.github.io/Podcast/audio/El_Rover_Lunar_parte1.mp3" type="audio/mpeg" length="0"/>
+        <pubDate>Mon, 10 Aug 2026 14:38:45 GMT</pubDate>
+        <itunes:season>1</itunes:season>
+        <itunes:episode>1</itunes:episode>
+        <itunes:image href="https://gsansone.github.io/Podcast/images/portada.jpg"/>
+    </item>
 </channel>
 </rss>
