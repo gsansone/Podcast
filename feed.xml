@@ -46,5 +46,16 @@
         <itunes:image href="https://gsansone.github.io/Podcast/images/portada.jpg"/>
         <guid isPermaLink="false">agente-de-ia-1786377099510</guid>
     </item>
+
+    <item>
+        <title><![CDATA[Stirling]]></title>
+        <description><![CDATA[]]></description>
+        <enclosure url="https://gsansone.github.io/Podcast/audio/el_motor_mas_eficiente_del_mundo_-_stirling.mp3" type="audio/mpeg" length="29258372"/>
+        <pubDate>Mon, 10 Aug 2026 17:27:48 GMT</pubDate>
+        <itunes:season>1</itunes:season>
+        <itunes:episode>4</itunes:episode>
+        <itunes:image href="https://gsansone.github.io/Podcast/images/portada.jpg"/>
+        <guid isPermaLink="false">stirling-1786382869310</guid>
+    </item>
 </channel>
 </rss>
