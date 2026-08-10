@@ -13,22 +13,6 @@
       <link>https://gsansone.github.io/Podcast/</link>
     </image>
     <itunes:image href="https://gsansone.github.io/Podcast/images/portada.jpg" />
-    
-    <item>
-      <title>Episodio 1: Mi primera prueba</title>
-      <description>Este es el primer archivo de audio subido al repositorio.</description>
-      <pubDate>Sun, 09 Aug 2026 12:00:00 -0300</pubDate>
-      <enclosure url="https://gsansone.github.io/Podcast/episodio1.mp3" type="audio/mpeg" length="5000000"/>
-      <guid isPermaLink="false">episodio-1</guid>
-    </item>
-
-    <item>
-      <title>NASA</title>
-      <description>Probemos</description>
-      <pubDate>Sun, 09 Aug 2026 18:41:47 -0300</pubDate>
-      <enclosure url="https://gsansone.github.io/Podcast/capitulo3.mp3" type="audio/mpeg" length="23589102"/>
-      <guid isPermaLink="false">episodio-3</guid>
-    </item>
   
     <item>
         <title><![CDATA[El Rover Lunar]]></title>
