@@ -79,5 +79,16 @@
         <itunes:image href="https://gsansone.github.io/Podcast/images/portada.jpg"/>
         <guid isPermaLink="false">desmontando-terraplanistas-1786390643478</guid>
     </item>
+
+    <item>
+        <title><![CDATA[Artemis]]></title>
+        <description><![CDATA[Revolución Espacial]]></description>
+        <enclosure url="https://gsansone.github.io/Podcast/audio/las_claves_de_artemis_revolucion_en_la_exploracion_espacial_decode_t2_ep57.mp3" type="audio/mpeg" length="30386215"/>
+        <pubDate>Mon, 10 Aug 2026 23:06:00 GMT</pubDate>
+        <itunes:season>2</itunes:season>
+        <itunes:episode>57</itunes:episode>
+        <itunes:image href="https://gsansone.github.io/Podcast/images/portada.jpg"/>
+        <guid isPermaLink="false">artemis-1786403160707</guid>
+    </item>
 </channel>
 </rss>
