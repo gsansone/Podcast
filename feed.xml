@@ -8,21 +8,21 @@
     
     <!-- ETIQUETAS DE LA PORTADA -->
     <image>
-      <url>https://gsansone.github.io/Podcast/portada.jpg?v=2</url>
+      <url>https://gsansone.github.io/Podcast/images/portada.jpg</url>
       <title>Mi Podcast Privado</title>
       <link>https://gsansone.github.io/Podcast/</link>
     </image>
-    <itunes:image href="https://gsansone.github.io/Podcast/portada.jpg?v=2" />
+    <itunes:image href="https://gsansone.github.io/Podcast/images/portada.jpg" />
     
     <item>
       <title>Episodio 1: Mi primera prueba</title>
       <description>Este es el primer archivo de audio subido al repositorio.</description>
       <pubDate>Sun, 09 Aug 2026 12:00:00 -0300</pubDate>
-      <!-- El atributo 'length' es el peso en bytes, puedes dejar un aproximado si no lo sabes -->
       <enclosure url="https://gsansone.github.io/Podcast/episodio1.mp3" type="audio/mpeg" length="5000000"/>
       <guid isPermaLink="false">episodio-1</guid>
     </item>
-      <item>
+
+    <item>
       <title>NASA</title>
       <description>Probemos</description>
       <pubDate>Sun, 09 Aug 2026 18:41:47 -0300</pubDate>
@@ -31,23 +31,15 @@
     </item>
   
     <item>
-        <title><![CDATA[Episodio 1 - Rover Lunar]]></title>
-        <description><![CDATA[Programa Apollo]]></description>
-        <enclosure url="https://gsansone.github.io/Podcast/audio/El Rover Lunar (Parte 1) PROGRAMA APOLO_parte1.mp3" type="audio/mpeg" length="0"/>
-        <pubDate>Mon, 10 Aug 2026 14:04:33 GMT</pubDate>
-        <itunes:season>1</itunes:season>
-        <itunes:episode>1</itunes:episode>
-        <itunes:image href="https://gsansone.github.io/Podcast/images/portada.jpg"/>
-    </item>
-
-    <item>
         <title><![CDATA[El Rover Lunar]]></title>
         <description><![CDATA[Programa Apolo]]></description>
-        <enclosure url="https://gsansone.github.io/Podcast/audio/El Rover Lunar_parte1.mp3" type="audio/mpeg" length="0"/>
+        <!-- Reemplaza los espacios por guiones bajos en tu repositorio y aquí -->
+        <enclosure url="https://gsansone.github.io/Podcast/audio/el_rover_lunar_parte1.mp3" type="audio/mpeg" length="25000000"/>
         <pubDate>Mon, 10 Aug 2026 14:25:30 GMT</pubDate>
         <itunes:season>1</itunes:season>
         <itunes:episode>1</itunes:episode>
         <itunes:image href="https://gsansone.github.io/Podcast/images/portada.jpg"/>
+        <guid isPermaLink="false">rover-lunar-1</guid>
     </item>
 </channel>
 </rss>
