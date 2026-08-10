@@ -46,5 +46,16 @@
         <itunes:image href="https://gsansone.github.io/Podcast/images/portada.jpg"/>
         <guid isPermaLink="false">el-rover-lunar-1786374965742</guid>
     </item>
+
+    <item>
+        <title><![CDATA[Vidrios Metálicos]]></title>
+        <description><![CDATA[De Oliver Nabani]]></description>
+        <enclosure url="https://gsansone.github.io/Podcast/audio/vidrios_metalicos_-_el_futuro_de_apple,_la_nasa_o_el_golf.mp3" type="audio/mpeg" length="25060325"/>
+        <pubDate>Mon, 10 Aug 2026 15:18:39 GMT</pubDate>
+        <itunes:season>1</itunes:season>
+        <itunes:episode>2</itunes:episode>
+        <itunes:image href="https://gsansone.github.io/Podcast/images/portada.jpg"/>
+        <guid isPermaLink="false">vidrios-met-licos-1786375120438</guid>
+    </item>
 </channel>
 </rss>
