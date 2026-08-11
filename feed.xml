@@ -90,5 +90,16 @@
         <itunes:image href="https://gsansone.github.io/Podcast/images/portada.jpg"/>
         <guid isPermaLink="false">artemis-1786403160707</guid>
     </item>
+
+    <item>
+        <title><![CDATA[La Odisea]]></title>
+        <description><![CDATA[Decode]]></description>
+        <enclosure url="https://gsansone.github.io/Podcast/audio/la_odisea_¿real_o_ficcion_decode_t2_ep93.mp3" type="audio/mpeg" length="20217079"/>
+        <pubDate>Tue, 11 Aug 2026 21:31:51 GMT</pubDate>
+        <itunes:season>1</itunes:season>
+        <itunes:episode>1</itunes:episode>
+        <itunes:image href="https://gsansone.github.io/Podcast/images/portada.jpg"/>
+        <guid isPermaLink="false">la-odisea-1786483911620</guid>
+    </item>
 </channel>
 </rss>
