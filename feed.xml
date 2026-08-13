@@ -112,5 +112,16 @@
         <itunes:image href="https://gsansone.github.io/Podcast/images/portada.jpg"/>
         <guid isPermaLink="false">porqu--queremos-volver-a-la-luna-1786652953520</guid>
     </item>
+
+    <item>
+        <title><![CDATA[Base Lunar]]></title>
+        <description><![CDATA[]]></description>
+        <enclosure url="https://gsansone.github.io/Podcast/audio/base_lunar_-_entrevista_exclusiva_-_carlos_garcia-galan.mp3" type="audio/mpeg" length="7890203"/>
+        <pubDate>Thu, 13 Aug 2026 20:33:44 GMT</pubDate>
+        <itunes:season>1</itunes:season>
+        <itunes:episode>1</itunes:episode>
+        <itunes:image href="https://gsansone.github.io/Podcast/images/portada.jpg"/>
+        <guid isPermaLink="false">base-lunar-1786653224938</guid>
+    </item>
 </channel>
 </rss>
