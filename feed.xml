@@ -156,5 +156,16 @@
         <itunes:image href="https://gsansone.github.io/Podcast/images/portada.jpg"/>
         <guid isPermaLink="false">starlink-1786654246280</guid>
     </item>
+
+    <item>
+        <title><![CDATA[Llegar a la Luna fue riesgoso]]></title>
+        <description><![CDATA[]]></description>
+        <enclosure url="https://gsansone.github.io/Podcast/audio/experto_en_astronomia_por_que_llegar_a_la_luna_fue_casi_un_suicidio_(1).mp3" type="audio/mpeg" length="17667343"/>
+        <pubDate>Thu, 13 Aug 2026 21:07:31 GMT</pubDate>
+        <itunes:season>1</itunes:season>
+        <itunes:episode>1</itunes:episode>
+        <itunes:image href="https://gsansone.github.io/Podcast/images/portada.jpg"/>
+        <guid isPermaLink="false">llegar-a-la-luna-fue-riesgoso-1786655252491</guid>
+    </item>
 </channel>
 </rss>
