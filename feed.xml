@@ -145,5 +145,16 @@
         <itunes:image href="https://gsansone.github.io/Podcast/images/portada.jpg"/>
         <guid isPermaLink="false">apollo-18-1786654101110</guid>
     </item>
+
+    <item>
+        <title><![CDATA[Starlink]]></title>
+        <description><![CDATA[]]></description>
+        <enclosure url="https://gsansone.github.io/Podcast/audio/¿como_puede_starlink_ser_tan_rapido_la_fisica_detras.mp3" type="audio/mpeg" length="16949613"/>
+        <pubDate>Thu, 13 Aug 2026 20:50:45 GMT</pubDate>
+        <itunes:season>1</itunes:season>
+        <itunes:episode>1</itunes:episode>
+        <itunes:image href="https://gsansone.github.io/Podcast/images/portada.jpg"/>
+        <guid isPermaLink="false">starlink-1786654246280</guid>
+    </item>
 </channel>
 </rss>
