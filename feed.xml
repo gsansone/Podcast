@@ -123,5 +123,16 @@
         <itunes:image href="https://gsansone.github.io/Podcast/images/portada.jpg"/>
         <guid isPermaLink="false">base-lunar-1786653224938</guid>
     </item>
+
+    <item>
+        <title><![CDATA[Piloto Comercial]]></title>
+        <description><![CDATA[]]></description>
+        <enclosure url="https://gsansone.github.io/Podcast/audio/piloto_comercial_asi_es_volar_un_avion_con_300_pasajeros._todo_lo_que_siempre_quisiste_saber.mp3" type="audio/mpeg" length="37394781"/>
+        <pubDate>Thu, 13 Aug 2026 20:44:05 GMT</pubDate>
+        <itunes:season>1</itunes:season>
+        <itunes:episode>1</itunes:episode>
+        <itunes:image href="https://gsansone.github.io/Podcast/images/portada.jpg"/>
+        <guid isPermaLink="false">piloto-comercial-1786653846355</guid>
+    </item>
 </channel>
 </rss>
