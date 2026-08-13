@@ -101,5 +101,16 @@
         <itunes:image href="https://gsansone.github.io/Podcast/images/portada.jpg"/>
         <guid isPermaLink="false">la-odisea-1786483911620</guid>
     </item>
+
+    <item>
+        <title><![CDATA[Porqué queremos volver a la luna]]></title>
+        <description><![CDATA[]]></description>
+        <enclosure url="https://gsansone.github.io/Podcast/audio/¿por_que_queremos_volver_a_la_luna_la_verdadera_razon_detras_de_la_nueva_carrera_espacial_._(1).mp3" type="audio/mpeg" length="25546736"/>
+        <pubDate>Thu, 13 Aug 2026 20:29:12 GMT</pubDate>
+        <itunes:season>1</itunes:season>
+        <itunes:episode>1</itunes:episode>
+        <itunes:image href="https://gsansone.github.io/Podcast/images/portada.jpg"/>
+        <guid isPermaLink="false">porqu--queremos-volver-a-la-luna-1786652953520</guid>
+    </item>
 </channel>
 </rss>
