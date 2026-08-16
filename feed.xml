@@ -178,5 +178,16 @@
         <itunes:image href="https://gsansone.github.io/Podcast/images/portada.jpg"/>
         <guid isPermaLink="false">voyager-1786655440615</guid>
     </item>
+
+    <item>
+        <title><![CDATA[La Luna 1969]]></title>
+        <description><![CDATA[]]></description>
+        <enclosure url="https://gsansone.github.io/Podcast/audio/si_llegamos_a_la_luna_en_1969…_¿por_que_volver_ha_sido_tan_dificil_penrose_revela_la_paradoja.mp3" type="audio/mpeg" length="35372133"/>
+        <pubDate>Sun, 16 Aug 2026 14:34:15 GMT</pubDate>
+        <itunes:season>1</itunes:season>
+        <itunes:episode>1</itunes:episode>
+        <itunes:image href="https://gsansone.github.io/Podcast/images/portada.jpg"/>
+        <guid isPermaLink="false">la-luna-1969-1786890856232</guid>
+    </item>
 </channel>
 </rss>
