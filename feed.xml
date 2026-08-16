@@ -244,5 +244,16 @@
         <itunes:image href="https://gsansone.github.io/Podcast/images/portada.jpg"/>
         <guid isPermaLink="false">las-pir-mides-1786923560314</guid>
     </item>
+
+    <item>
+        <title><![CDATA[Las Pirámides]]></title>
+        <description><![CDATA[]]></description>
+        <enclosure url="https://gsansone.github.io/Podcast/audio/2._la_dimension_del_problema_¿por_que_las_piramides_parecen_imposibles.mp3" type="audio/mpeg" length="5365871"/>
+        <pubDate>Sun, 16 Aug 2026 23:39:37 GMT</pubDate>
+        <itunes:season>1</itunes:season>
+        <itunes:episode>1</itunes:episode>
+        <itunes:image href="https://gsansone.github.io/Podcast/images/portada.jpg"/>
+        <guid isPermaLink="false">las-pir-mides-1786923577840</guid>
+    </item>
 </channel>
 </rss>
