@@ -299,5 +299,16 @@
         <itunes:image href="https://gsansone.github.io/Podcast/images/portada.jpg"/>
         <guid isPermaLink="false">las-pir-mides-1786923671668</guid>
     </item>
+
+    <item>
+        <title><![CDATA[Las Pirámides]]></title>
+        <description><![CDATA[]]></description>
+        <enclosure url="https://gsansone.github.io/Podcast/audio/7._el_mayor_misterio_de_las_piramides_¿como_levantaron_millones_de_toneladas.mp3" type="audio/mpeg" length="11015929"/>
+        <pubDate>Sun, 16 Aug 2026 23:41:30 GMT</pubDate>
+        <itunes:season>1</itunes:season>
+        <itunes:episode>1</itunes:episode>
+        <itunes:image href="https://gsansone.github.io/Podcast/images/portada.jpg"/>
+        <guid isPermaLink="false">las-pir-mides-1786923691098</guid>
+    </item>
 </channel>
 </rss>
