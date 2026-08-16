@@ -222,5 +222,16 @@
         <itunes:image href="https://gsansone.github.io/Podcast/images/portada.jpg"/>
         <guid isPermaLink="false">satellite-1786895345224</guid>
     </item>
+
+    <item>
+        <title><![CDATA[Señal de ajuste]]></title>
+        <description><![CDATA[]]></description>
+        <enclosure url="https://gsansone.github.io/Podcast/audio/senal_de_ajuste_programa_n°_5_(1).mp3" type="audio/mpeg" length="18479816"/>
+        <pubDate>Sun, 16 Aug 2026 15:56:41 GMT</pubDate>
+        <itunes:season>1</itunes:season>
+        <itunes:episode>1</itunes:episode>
+        <itunes:image href="https://gsansone.github.io/Podcast/images/portada.jpg"/>
+        <guid isPermaLink="false">se-al-de-ajuste-1786895802138</guid>
+    </item>
 </channel>
 </rss>
