@@ -266,5 +266,16 @@
         <itunes:image href="https://gsansone.github.io/Podcast/images/portada.jpg"/>
         <guid isPermaLink="false">las-pir-mides-1786923603286</guid>
     </item>
+
+    <item>
+        <title><![CDATA[Las Pirámides]]></title>
+        <description><![CDATA[]]></description>
+        <enclosure url="https://gsansone.github.io/Podcast/audio/4._¿de_donde_salio_la_piedra_de_las_piramides_todo_egipto_era_una_cantera.mp3" type="audio/mpeg" length="8107477"/>
+        <pubDate>Sun, 16 Aug 2026 23:40:23 GMT</pubDate>
+        <itunes:season>1</itunes:season>
+        <itunes:episode>1</itunes:episode>
+        <itunes:image href="https://gsansone.github.io/Podcast/images/portada.jpg"/>
+        <guid isPermaLink="false">las-pir-mides-1786923624497</guid>
+    </item>
 </channel>
 </rss>
