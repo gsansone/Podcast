@@ -310,5 +310,16 @@
         <itunes:image href="https://gsansone.github.io/Podcast/images/portada.jpg"/>
         <guid isPermaLink="false">las-pir-mides-1786923691098</guid>
     </item>
+
+    <item>
+        <title><![CDATA[Las Pirámides]]></title>
+        <description><![CDATA[]]></description>
+        <enclosure url="https://gsansone.github.io/Podcast/audio/8._los_verdaderos_constructores_de_las_piramides_¿quienes_eran_realmente.mp3" type="audio/mpeg" length="9368719"/>
+        <pubDate>Sun, 16 Aug 2026 23:41:50 GMT</pubDate>
+        <itunes:season>1</itunes:season>
+        <itunes:episode>1</itunes:episode>
+        <itunes:image href="https://gsansone.github.io/Podcast/images/portada.jpg"/>
+        <guid isPermaLink="false">las-pir-mides-1786923711603</guid>
+    </item>
 </channel>
 </rss>
