@@ -233,5 +233,16 @@
         <itunes:image href="https://gsansone.github.io/Podcast/images/portada.jpg"/>
         <guid isPermaLink="false">se-al-de-ajuste-1786895802138</guid>
     </item>
+
+    <item>
+        <title><![CDATA[Las Pirámides]]></title>
+        <description><![CDATA[]]></description>
+        <enclosure url="https://gsansone.github.io/Podcast/audio/1._el_impacto_¿como_demonios_construyeron_esto.mp3" type="audio/mpeg" length="3782490"/>
+        <pubDate>Sun, 16 Aug 2026 23:39:19 GMT</pubDate>
+        <itunes:season>1</itunes:season>
+        <itunes:episode>1</itunes:episode>
+        <itunes:image href="https://gsansone.github.io/Podcast/images/portada.jpg"/>
+        <guid isPermaLink="false">las-pir-mides-1786923560314</guid>
+    </item>
 </channel>
 </rss>
