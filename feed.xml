@@ -200,5 +200,16 @@
         <itunes:image href="https://gsansone.github.io/Podcast/images/portada.jpg"/>
         <guid isPermaLink="false">el-sol--1786890914079</guid>
     </item>
+
+    <item>
+        <title><![CDATA[ARA San Juan]]></title>
+        <description><![CDATA[]]></description>
+        <enclosure url="https://gsansone.github.io/Podcast/audio/mano_a_mano_con_enrique_balbi_tras_la_aparicion_del_submarino_ara_san_juan_-_ln.mp3" type="audio/mpeg" length="17214547"/>
+        <pubDate>Sun, 16 Aug 2026 15:45:45 GMT</pubDate>
+        <itunes:season>1</itunes:season>
+        <itunes:episode>1</itunes:episode>
+        <itunes:image href="https://gsansone.github.io/Podcast/images/portada.jpg"/>
+        <guid isPermaLink="false">ara-san-juan-1786895146091</guid>
+    </item>
 </channel>
 </rss>
