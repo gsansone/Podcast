@@ -189,5 +189,16 @@
         <itunes:image href="https://gsansone.github.io/Podcast/images/portada.jpg"/>
         <guid isPermaLink="false">la-luna-1969-1786890856232</guid>
     </item>
+
+    <item>
+        <title><![CDATA[El Sol.]]></title>
+        <description><![CDATA[]]></description>
+        <enclosure url="https://gsansone.github.io/Podcast/audio/☀️_si_el_sol_esta_en_el_vacio…_¿como_puede_arder_sin_oxigeno_roger_penrose_explica_la_fisica_real.mp3" type="audio/mpeg" length="33728207"/>
+        <pubDate>Sun, 16 Aug 2026 14:35:13 GMT</pubDate>
+        <itunes:season>1</itunes:season>
+        <itunes:episode>1</itunes:episode>
+        <itunes:image href="https://gsansone.github.io/Podcast/images/portada.jpg"/>
+        <guid isPermaLink="false">el-sol--1786890914079</guid>
+    </item>
 </channel>
 </rss>
