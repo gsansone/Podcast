@@ -321,5 +321,16 @@
         <itunes:image href="https://gsansone.github.io/Podcast/images/portada.jpg"/>
         <guid isPermaLink="false">las-pir-mides-1786923711603</guid>
     </item>
+
+    <item>
+        <title><![CDATA[QTC Live]]></title>
+        <description><![CDATA[]]></description>
+        <enclosure url="https://gsansone.github.io/Podcast/audio/📻_entrevista_a_pablo_severi_lu1aps_qtc_live_–_programa_nº_38.mp3" type="audio/mpeg" length="35425410"/>
+        <pubDate>Wed, 26 Aug 2026 16:23:36 GMT</pubDate>
+        <itunes:season>1</itunes:season>
+        <itunes:episode>1</itunes:episode>
+        <itunes:image href="https://gsansone.github.io/Podcast/images/portada.jpg"/>
+        <guid isPermaLink="false">qtc-live-1787761417454</guid>
+    </item>
 </channel>
 </rss>
