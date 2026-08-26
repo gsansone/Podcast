@@ -332,5 +332,16 @@
         <itunes:image href="https://gsansone.github.io/Podcast/images/portada.jpg"/>
         <guid isPermaLink="false">qtc-live-1787761417454</guid>
     </item>
+
+    <item>
+        <title><![CDATA[QTC Live Especial]]></title>
+        <description><![CDATA[]]></description>
+        <enclosure url="https://gsansone.github.io/Podcast/audio/qtc_live_-_programa_especial_(1).mp3" type="audio/mpeg" length="12605571"/>
+        <pubDate>Wed, 26 Aug 2026 16:24:25 GMT</pubDate>
+        <itunes:season>1</itunes:season>
+        <itunes:episode>1</itunes:episode>
+        <itunes:image href="https://gsansone.github.io/Podcast/images/portada.jpg"/>
+        <guid isPermaLink="false">qtc-live-especial-1787761465528</guid>
+    </item>
 </channel>
 </rss>
