@@ -365,5 +365,16 @@
         <itunes:image href="https://gsansone.github.io/Podcast/images/portada.jpg"/>
         <guid isPermaLink="false">de-d-nde-sale-la-energ-a--1787956190231</guid>
     </item>
+
+    <item>
+        <title><![CDATA[Cómo hablamos con los satélites.]]></title>
+        <description><![CDATA[]]></description>
+        <enclosure url="https://gsansone.github.io/Podcast/audio/como_hablamos_con_satelites_a_28.000_km_h_la_guia_definitiva_(rf_vs_laser)_(1).mp3" type="audio/mpeg" length="10133291"/>
+        <pubDate>Fri, 28 Aug 2026 22:30:25 GMT</pubDate>
+        <itunes:season>1</itunes:season>
+        <itunes:episode>1</itunes:episode>
+        <itunes:image href="https://gsansone.github.io/Podcast/images/portada.jpg"/>
+        <guid isPermaLink="false">c-mo-hablamos-con-los-sat-lites--1787956226006</guid>
+    </item>
 </channel>
 </rss>
