@@ -354,5 +354,16 @@
         <itunes:image href="https://gsansone.github.io/Podcast/images/portada.jpg"/>
         <guid isPermaLink="false">se-al-de-ajuste-1787956138197</guid>
     </item>
+
+    <item>
+        <title><![CDATA[De dónde sale la energía.]]></title>
+        <description><![CDATA[]]></description>
+        <enclosure url="https://gsansone.github.io/Podcast/audio/🧲_¿de_donde_sale_la_energia_de_un_iman_el_misterio_que_la_fisica_revela_sir_roger_penrose.mp3" type="audio/mpeg" length="17866426"/>
+        <pubDate>Fri, 28 Aug 2026 22:29:49 GMT</pubDate>
+        <itunes:season>1</itunes:season>
+        <itunes:episode>1</itunes:episode>
+        <itunes:image href="https://gsansone.github.io/Podcast/images/portada.jpg"/>
+        <guid isPermaLink="false">de-d-nde-sale-la-energ-a--1787956190231</guid>
+    </item>
 </channel>
 </rss>
