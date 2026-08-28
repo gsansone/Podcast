@@ -343,5 +343,16 @@
         <itunes:image href="https://gsansone.github.io/Podcast/images/portada.jpg"/>
         <guid isPermaLink="false">qtc-live-especial-1787761465528</guid>
     </item>
+
+    <item>
+        <title><![CDATA[Señal de Ajuste]]></title>
+        <description><![CDATA[]]></description>
+        <enclosure url="https://gsansone.github.io/Podcast/audio/senal_de_ajuste_programa_n°_8_(1).mp3" type="audio/mpeg" length="20548087"/>
+        <pubDate>Fri, 28 Aug 2026 22:28:57 GMT</pubDate>
+        <itunes:season>1</itunes:season>
+        <itunes:episode>8</itunes:episode>
+        <itunes:image href="https://gsansone.github.io/Podcast/images/portada.jpg"/>
+        <guid isPermaLink="false">se-al-de-ajuste-1787956138197</guid>
+    </item>
 </channel>
 </rss>
